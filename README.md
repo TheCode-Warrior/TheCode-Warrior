@@ -10,6 +10,14 @@
 
 Flutter developer with 3 years building Android, iOS, web, and desktop apps. Builds Laravel REST APIs for SaaS products and integrates those Laravel REST APIs into Flutter mobile apps. Payment gateways, push notifications, Firebase, and Google Play Console. Remote work on a Zego live e-commerce app and Blisssify. AI features include content rewriting and an in-app chatbot.
 
+<p align="center">
+  <img src="architecture.png" alt="Flow from Android, iOS, web, and desktop into a Flutter app, then a Laravel REST API, then databases, payments, Firebase, Play Console, push notifications, Zego live, and in-app AI." width="100%">
+</p>
+
+<p align="center">
+  <img src="timeline.png" alt="Timeline: BS IT starts in 2022, MIT Programmer in 2023, freelance in 2025, degree in 2026." width="100%">
+</p>
+
 ## Experience
 
 ### Freelance Flutter Developer · Remote · 2025 – Present
