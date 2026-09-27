@@ -1,14 +1,14 @@
-# 👨‍💻 Muhammad Irfan  
+#  Muhammad Irfan  
 
-*🎯 Full Stack Developer | Flutter & Laravel Specialist | Cross-Platform Apps (iOS/Android) | API Integration |  
+* Full Stack Developer | Flutter & Laravel Specialist | Cross-Platform Apps (iOS/Android) | API Integration |  
 App Monetization | Google Play Console Manager | Open to Remote & Onsite Opportunities*  
 
 ---
 
-## 🧐 About Me  
-🚀 Passionate and results-driven *Full Stack Developer* with *2+ years* of experience in *Flutter & Laravel. I specialize in developing scalable **cross-platform mobile & web applications, **API integrations, and **backend development* using Laravel. With a strong foundation in *RESTful APIs, Google Play Console deployment, and **agile development*, I strive to build innovative and user-friendly applications.  
+## About Me  
+ Passionate and results-driven *Full Stack Developer* with *2+ years* of experience in *Flutter & Laravel. I specialize in developing scalable **cross-platform mobile & web applications, **API integrations, and **backend development* using Laravel. With a strong foundation in *RESTful APIs, Google Play Console deployment, and **agile development*, I strive to build innovative and user-friendly applications.  
 
-📌 *Key Expertise:*  
+ *Key Expertise:*  
 - Flutter (Dart) & Laravel (PHP)  
 - RESTful API Development & Integration  
 - Google Play Console Management  
@@ -18,9 +18,9 @@ App Monetization | Google Play Console Manager | Open to Remote & Onsite Opportu
 
 ---
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 
-### 🚀 Languages  
+###  Languages  
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![OOP](https://img.shields.io/badge/-OOP-800080?style=for-the-badge)  
@@ -32,7 +32,7 @@ App Monetization | Google Play Console Manager | Open to Remote & Onsite Opportu
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)   
 
-### 📂 Databases  
+###  Databases  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![OracleDB](https://img.shields.io/badge/-OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
@@ -47,7 +47,7 @@ App Monetization | Google Play Console Manager | Open to Remote & Onsite Opportu
 
 ---
 
-## 🚀 Featured Projects  
+##  Featured Projects  
 
 | Repository Name                | Description                                      | Link |
 |--------------------------------|--------------------------------------------------|------|
@@ -66,7 +66,7 @@ App Monetization | Google Play Console Manager | Open to Remote & Onsite Opportu
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammad-irfan&show_icons=true&theme=dark" alt="GitHub Stats">
@@ -78,14 +78,14 @@ App Monetization | Google Play Console Manager | Open to Remote & Onsite Opportu
 
 ---
 
-### 📈 GitHub Activity  
+###  GitHub Activity  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-irfan&theme=react&hide_border=true" alt="GitHub Activity">
 </p>
 
 ---
 
-## 📫 Let's Connect  
+##  Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/irfan-gill/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat-square&logo=Internet-Explorer&logoColor=white)](https://staff.mitprogrammer.com/irfan_gill)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:muhammadirfangill87@gmail.com)  
