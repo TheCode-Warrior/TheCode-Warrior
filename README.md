@@ -1,95 +1,64 @@
-#  Muhammad Irfan  
+# Muhammad Irfan
 
-* Full Stack Developer | Flutter & Laravel Specialist | Cross-Platform Apps (iOS/Android) | API Integration |  
-App Monetization | Google Play Console Manager | Open to Remote & Onsite Opportunities*  
+**Flutter Developer (Android, iOS, Web, Desktop) | Laravel**
 
----
+Faisalabad, Pakistan
 
-## About Me  
- Passionate and results-driven *Full Stack Developer* with *2+ years* of experience in *Flutter & Laravel. I specialize in developing scalable **cross-platform mobile & web applications, **API integrations, and **backend development* using Laravel. With a strong foundation in *RESTful APIs, Google Play Console deployment, and **agile development*, I strive to build innovative and user-friendly applications.  
+Flutter developer with 3 years building Android, iOS, web, and desktop apps. Builds Laravel REST APIs for SaaS products and integrates those Laravel REST APIs into Flutter mobile apps. Payment gateways, push notifications, Firebase, and Google Play Console. Remote work on a Zego live e-commerce app and Blisssify. AI features include content rewriting and an in-app chatbot.
 
- *Key Expertise:*  
-- Flutter (Dart) & Laravel (PHP)  
-- RESTful API Development & Integration  
-- Google Play Console Management  
-- Firebase, MySQL & Oracle Database  
-- AdMob Monetization & App Store Optimization (ASO)  
-- Scalable Web & Mobile App Architecture  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-irfan--gill-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-gill/)
+[![Email](https://img.shields.io/badge/Email-muhammadirfangill87@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadirfangill87@gmail.com)
 
----
+## Experience
 
-##  Tech Stack  
+### Freelance Flutter Developer · Remote · 2025 – Present
 
-###  Languages  
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![OOP](https://img.shields.io/badge/-OOP-800080?style=for-the-badge)  
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+- **Live E-Commerce Social App** — Flutter and Laravel, Zego live streaming, real-time chat, in-app purchases, payment gateways, Android and iOS.
+- **Blisssify** — Flutter app for Android and iOS, Laravel REST APIs, and deep linking. [Docs](https://github.com/TheCode-Warrior/blisssify-docs)
 
-### ⚙ Frameworks & Libraries  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)   
+### MIT Programmer · Faisalabad, Pakistan · 2023 – 2025
 
-###  Databases  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![OracleDB](https://img.shields.io/badge/-OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-![Sqflite](https://img.shields.io/badge/-Sqflite-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white)  
+- Built Flutter apps and Laravel REST APIs for SaaS products across Android, iOS, web, and desktop using Bloc, GetX, and Provider.
+- Designed REST APIs with MySQL, PostgreSQL, and SQLite. Delivered a restaurant management SaaS and a POS SaaS. Firebase Auth, Firestore, push notifications, JavaScript and TypeScript, and Google Play Console.
 
-### 🛠 Tools  
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Google Play Console](https://img.shields.io/badge/-Google%20Play%20Console-414141?style=for-the-badge&logo=google-play&logoColor=white)  
+## Technical skills
 
----
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-##  Featured Projects  
+Also: REST APIs, payment gateways, push notifications (FCM), deep linking, Zego, AI integration, Google Play Console, Android, iOS, web, and desktop.
 
-| Repository Name                | Description                                      | Link |
-|--------------------------------|--------------------------------------------------|------|
-| *[Plag Remover Pro](#)*       | An advanced plagiarism remover app enhancing content originality, available on Play Store. | [Play Store](https://play.google.com/store/apps/details?id=com.mit.plagremoverpro) |
-| *[Daily Expense Manager](#)*  | A powerful app for managing expenses and loans, ensuring financial tracking. | [Play Store](https://play.google.com/store/apps/details?id=com.irfansdevstudio.loanmanagement&pli=1) |
-| *[Status Saver App](#)*      | A modern WhatsApp status saver app built using Flutter & Firebase. | [GitHub](#) |
-| *[No Ulez App](#)*           | A useful application to check ULEZ (Ultra Low Emission Zone) compliance for vehicles. | [GitHub](#) |
-| *[Sports Area App](#)*       | A sports booking and management app for various sports facilities. | [GitHub](#) |
-| *[Hiddency VPN App](#)*      | A secure VPN app providing encrypted internet browsing. | [GitHub](#) |
-| *[Manavshakti App](#)*       | A spiritual and meditation-based mobile application. | [GitHub](#) |
-| *[Giphy App](#)*             | A fun and interactive app for discovering trending GIFs. | [GitHub](#) |
-| *[Yuyki App](#)*             | A social networking and community engagement app. | [GitHub](https://github.com/Irfan-ITians/yuyki) |
-| *[Live Tracking App](#)*     | Real-time location tracking with Firebase, Google Maps API & Flutter. | [GitHub](https://github.com/Irfan-ITians/Calorie-Tracking-App) |
-| *[Flutter E-Commerce App](#)* | A fully functional Flutter-based e-commerce app with API integration, search, and favorites. | [GitHub](https://github.com/Irfan-ITians/Flutter-Task) |
+## Selected projects
 
+| Project | What it does |
+| --- | --- |
+| Hiddency VPN | Flutter VPN client with secure tunneling, multiple server regions, and one-tap server switching. |
+| No Ulez | Flutter app that helps UK drivers check ULEZ compliance with a live map, vehicle lookup, and zone detection. |
+| [Plagiarism Remover Pro](https://play.google.com/store/apps/details?id=com.mit.plagremoverpro) | AI plagiarism detection and content rewriting with subscription billing. |
+| [Smart Hostel Management Assistant](https://github.com/TheCode-Warrior/Smart-Hostel-Management-Assistant) | Flutter, Firebase, and Provider, with an AI chatbot. Covers students, rooms, fees, attendance, and complaints. |
+| Restaurant Management System | Laravel and MySQL SaaS for orders, table booking, and multi-location billing. |
+| POS SaaS | Laravel and MySQL for billing, inventory, and multi-location sales reporting. |
 
----
+## Education
 
-##  GitHub Stats  
+**Bachelor of Science in Information Technology** · GC University Faisalabad · 2022 – 2026
+
+Coursework: Web Development, Python, MySQL, Oracle Database, SQL stored procedures and triggers, Cloud Computing, CCNA.
+
+## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-irfan&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheCode-Warrior&show_icons=true&theme=default" alt="GitHub stats for TheCode-Warrior">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-irfan&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCode-Warrior&layout=compact&theme=default" alt="Top languages for TheCode-Warrior">
 </p>
-
----
-
-###  GitHub Activity  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-irfan&theme=react&hide_border=true" alt="GitHub Activity">
-</p>
-
----
-
-##  Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/irfan-gill/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat-square&logo=Internet-Explorer&logoColor=white)](https://staff.mitprogrammer.com/irfan_gill)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:muhammadirfangill87@gmail.com)  
-
----
-
-👨‍💻 *Passionate about coding, open-source, and building innovative digital solutions. Let's connect and create something amazing together! 🚀*
