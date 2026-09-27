@@ -15,7 +15,11 @@ Flutter developer with 3 years building Android, iOS, web, and desktop apps. Bui
 </p>
 
 <p align="center">
-  <img src="timeline.png" alt="Timeline: BS IT starts in 2022, MIT Programmer in 2023, freelance in 2025, degree in 2026." width="100%">
+  <img src="timeline.png" alt="Timeline bars: BS IT from 2022 to 2026, completed. MIT Programmer from 2023 to 2025. Freelance from 2025 to the present." width="100%">
+</p>
+
+<p align="center">
+  <img src="hints.png" alt="Python appears in the BS IT coursework. AI appears as content rewriting and as an in-app chatbot." width="100%">
 </p>
 
 ## Experience
@@ -64,7 +68,7 @@ Flutter developer with 3 years building Android, iOS, web, and desktop apps. Bui
 
 ## Education
 
-**Bachelor of Science in Information Technology** · GC University Faisalabad · 2022 – 2026
+**Bachelor of Science in Information Technology** · GC University Faisalabad · Completed, 2022 – 2026
 
 Coursework: Web Development, Python, MySQL, Oracle Database, SQL stored procedures and triggers, Cloud Computing, CCNA.
 
