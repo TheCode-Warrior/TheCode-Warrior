@@ -8,6 +8,7 @@ Flutter developer with 3 years building Android, iOS, web, and desktop apps. Bui
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-irfan--gill-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-gill/)
 [![Email](https://img.shields.io/badge/Email-muhammadirfangill87@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadirfangill87@gmail.com)
+[![Blisssify](https://img.shields.io/badge/Blisssify-docs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheCode-Warrior/blisssify-docs)
 
 ## Experience
 
@@ -40,6 +41,7 @@ Also: REST APIs, payment gateways, push notifications (FCM), deep linking, Zego,
 
 | Project | What it does |
 | --- | --- |
+| [Blisssify](https://github.com/TheCode-Warrior/blisssify-docs) | Flutter app for Android and iOS, with Laravel REST APIs and deep linking. |
 | Hiddency VPN | Flutter VPN client with secure tunneling, multiple server regions, and one-tap server switching. |
 | No Ulez | Flutter app that helps UK drivers check ULEZ compliance with a live map, vehicle lookup, and zone detection. |
 | [Plagiarism Remover Pro](https://play.google.com/store/apps/details?id=com.mit.plagremoverpro) | AI plagiarism detection and content rewriting with subscription billing. |
