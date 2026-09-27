@@ -1,21 +1,21 @@
-# Muhammad Irfan
+<p align="center">
+  <img src="header.svg" alt="Muhammad Irfan, Flutter Developer for Android, iOS, web, and desktop, and Laravel" width="100%">
+</p>
 
-**Flutter Developer (Android, iOS, Web, Desktop) | Laravel**
-
-Faisalabad, Pakistan
+<p align="center">
+  <a href="https://www.linkedin.com/in/irfan-gill/"><img src="https://img.shields.io/badge/LinkedIn-irfan--gill-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:muhammadirfangill87@gmail.com"><img src="https://img.shields.io/badge/Email-muhammadirfangill87@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/TheCode-Warrior/blisssify-docs"><img src="https://img.shields.io/badge/Blisssify-docs-181717?style=for-the-badge&logo=github&logoColor=white" alt="Blisssify docs"></a>
+</p>
 
 Flutter developer with 3 years building Android, iOS, web, and desktop apps. Builds Laravel REST APIs for SaaS products and integrates those Laravel REST APIs into Flutter mobile apps. Payment gateways, push notifications, Firebase, and Google Play Console. Remote work on a Zego live e-commerce app and Blisssify. AI features include content rewriting and an in-app chatbot.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-irfan--gill-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-gill/)
-[![Email](https://img.shields.io/badge/Email-muhammadirfangill87@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadirfangill87@gmail.com)
-[![Blisssify](https://img.shields.io/badge/Blisssify-docs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheCode-Warrior/blisssify-docs)
 
 ## Experience
 
 ### Freelance Flutter Developer · Remote · 2025 – Present
 
 - **Live E-Commerce Social App** — Flutter and Laravel, Zego live streaming, real-time chat, in-app purchases, payment gateways, Android and iOS.
-- **Blisssify** — Flutter app for Android and iOS, Laravel REST APIs, and deep linking. [Docs](https://github.com/TheCode-Warrior/blisssify-docs)
+- **[Blisssify](https://github.com/TheCode-Warrior/blisssify-docs)** — Flutter app for Android and iOS, Laravel REST APIs, and deep linking.
 
 ### MIT Programmer · Faisalabad, Pakistan · 2023 – 2025
 
@@ -24,18 +24,23 @@ Flutter developer with 3 years building Android, iOS, web, and desktop apps. Bui
 
 ## Technical skills
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
 
-Also: REST APIs, payment gateways, push notifications (FCM), deep linking, Zego, AI integration, Google Play Console, Android, iOS, web, and desktop.
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</p>
+
+<p align="center">REST APIs · payment gateways · push notifications (FCM) · deep linking · Zego · AI integration · Google Play Console · Android · iOS · web · desktop</p>
 
 ## Selected projects
 
@@ -58,9 +63,6 @@ Coursework: Web Development, Python, MySQL, Oracle Database, SQL stored procedur
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheCode-Warrior&show_icons=true&theme=default" alt="GitHub stats for TheCode-Warrior">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCode-Warrior&layout=compact&theme=default" alt="Top languages for TheCode-Warrior">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheCode-Warrior&show_icons=true&hide_border=true&title_color=02569B&icon_color=02569B&text_color=24292F&bg_color=F6F8FA" alt="GitHub stats for TheCode-Warrior">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCode-Warrior&layout=compact&hide_border=true&title_color=02569B&text_color=24292F&bg_color=F6F8FA" alt="Top languages for TheCode-Warrior">
 </p>
