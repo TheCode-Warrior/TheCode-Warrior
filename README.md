@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" alt="Muhammad Irfan, Flutter Developer for Android, iOS, web, and desktop, and Laravel" width="100%">
+  <img src="header.png" alt="Muhammad Irfan, Flutter Developer for Android, iOS, web, and desktop, and Laravel" width="100%">
 </p>
 
 <p align="center">
